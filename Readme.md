@@ -9,4 +9,4 @@ npm start
 ```
 
 # How to Use
-=> [https://teknodice.com/nodejs-ile-awsdeki-instancelari-listeleme/](https://teknodice.com/nodejs-ile-awsdeki-instancelari-listeleme/ "www.teknodice.com")
+=> [http://teknodice.com/nodejs-ile-awsdeki-instancelari-listeleme/](http://teknodice.com/nodejs-ile-awsdeki-instancelari-listeleme/ "www.teknodice.com")
